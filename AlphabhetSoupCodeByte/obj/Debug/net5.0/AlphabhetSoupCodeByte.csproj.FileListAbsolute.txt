@@ -1,0 +1,16 @@
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.exe
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.deps.json
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.runtimeconfig.json
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.runtimeconfig.dev.json
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.dll
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\ref\AlphabhetSoupCodeByte.dll
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\bin\Debug\net5.0\AlphabhetSoupCodeByte.pdb
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.csproj.AssemblyReference.cache
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.AssemblyInfoInputs.cache
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.AssemblyInfo.cs
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.csproj.CoreCompileInputs.cache
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.dll
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\ref\AlphabhetSoupCodeByte.dll
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.pdb
+C:\Users\portiad\source\repos\AlphabhetSoupCodeByte\AlphabhetSoupCodeByte\obj\Debug\net5.0\AlphabhetSoupCodeByte.genruntimeconfig.cache
